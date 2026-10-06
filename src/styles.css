@@ -156,3 +156,9 @@ body {
   transform: scale(0.99);
 }
 
+/* Error message styles */
+.error-message, .error-password{
+  border: 1px solid #ff4d4f;
+  background-color: #ffeef0;
+  color: #d93025;
+}

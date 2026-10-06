@@ -96,3 +96,7 @@ const subButton = document.createElement('button')
 subButton.className = 'submit-btn'
 subButton.textContent = 'Create account'
 container.append(subButton)
+
+
+// for validation email
+export{container, data}
